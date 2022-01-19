@@ -80,7 +80,7 @@ export default function Navbar() {
             Get Consultation
           </button>
           <Link href='/' passHref>
-            <button className='inline-flex items-center rounded-none text-gray-800 p-2 ml-2'>
+            <button className='inline-flex items-center rounded-none font-lato text-base text-gray-800 p-2 ml-2'>
               <CgProfile className='mr-1 mt-1' /> Login / Register
             </button>
           </Link>

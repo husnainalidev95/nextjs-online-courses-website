@@ -17,12 +17,14 @@ module.exports = {
         'gray-700': '#787A80',
         'gray-800': '#424551',
         'gray-900': '#1E212C',
+        'primary': '#FF3F3A',
         'success': '#03CEA4',
         'info': '#5A87FC',
         'warning': '#F89828',
         'danger': '#FF4242',
+        'secondary': '#FFCF2D',
         'red': '#F52F6E',
-        'section-bg-color': '#FEDBD3'
+        'section-bg-color': '#FEDBD3',
       },
       backgroundImage: {
         'courses-card-image-1': "url('/images/courses-image-1.png')"
